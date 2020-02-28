@@ -1,0 +1,8 @@
+ platform :ios, '9.0'
+
+target 'LoginExample' do
+
+  use_frameworks!
+pod 'SwiftKeychainWrapper','~>3.0.1'
+
+end
